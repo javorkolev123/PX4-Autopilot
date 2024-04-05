@@ -2,6 +2,7 @@
 *.o
 *.gch
 *.pyc
+venv
 *~
 .*.swp
 .context
